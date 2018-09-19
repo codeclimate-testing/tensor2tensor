@@ -2,4 +2,3 @@ version: "2"
 plugins:
   structure:
     enabled: true
-    channel: beta
